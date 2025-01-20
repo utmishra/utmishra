@@ -19,3 +19,4 @@ I love building for the heck of it and strive to inculcate the best programming 
 
 ---
 <img height=200 align="center" src="https://github-stats-five-chi.vercel.app/api/top-langs?username=utmishra&layout=compact&langs_count=8&card_width=320&theme=radical" />
+⚠️ Note ⚠️: The stats are not a complete reflection of my work as a major portion of the development was pushed in Gitlab/Bitbucket private repositories as well.
